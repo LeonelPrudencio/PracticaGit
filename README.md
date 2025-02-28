@@ -5,3 +5,5 @@
 Para ejecutar:
 
 ```npm install react```
+
+Practica 2
